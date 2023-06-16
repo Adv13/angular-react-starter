@@ -1,4 +1,4 @@
-# Angular 14 & React 18 Examples Starter
+# Angular 16 & React 18 Examples Starter
 
 <table>
 <tr>
@@ -11,9 +11,9 @@
 it's part of a repo series designed 
 
 
-to create a **Web Application with Angular 14**
+to create a **Web Application with Angular 16**
 
-* Featuring [**Angular 14.0.5**](https://github.com/angular/angular/releases) & [**Angular CLI 14.0.5**](https://github.com/angular/angular-cli/releases/)
+* Featuring [**Angular 16.1.1**](https://github.com/angular/angular/releases) & [**Angular CLI 16.0.5**](https://github.com/angular/angular-cli/releases/)
 
 
 * See the [**Angular Live demo**](#angular-live-demo), Test the repo with [**Quick start**](#angular-quick-start) and for more information Read the step by step [**Tutorial**](#angular-tutorial) or read the [**Getting started**](#angular-getting-started)
@@ -36,7 +36,7 @@ Here is a working Angular live demo :  https://angular.ganatan.com
 <p align="center">
   <p align="center">
     <a href="https://angular.ganatan.com/">
-      <img src="https://media.giphy.com/media/9BuBBLc7keCgRojp92/giphy.gif" alt="Angular 14 Example 
+      <img src="https://media.giphy.com/media/9BuBBLc7keCgRojp92/giphy.gif" alt="Angular 16 Example 
       Application"/>
     </a>
   </p>
@@ -160,5 +160,10 @@ Here is a step by step Tutorial :  https://www.ganatan.com/tutorials/getting-sta
 
 ## [Tutoriels Angular en français](#french-tutorials)
 - Installation - https://www.ganatan.com/tutorials/demarrer-avec-angular
+- Tutoriels Etape par étape - https://www.ganatan.com/tutorials
+
+
+## [Tutoriels React en français](#french-tutorials)
+- Installation - https://www.ganatan.com/tutorials/demarrer-avec-react
 - Tutoriels Etape par étape - https://www.ganatan.com/tutorials
 
