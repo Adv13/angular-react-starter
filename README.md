@@ -1,4 +1,4 @@
-# Angular 16 & React 18 Examples Starter
+# Angular 17 , React 18 & Node Examples Starter
 
 <table>
 <tr>
@@ -10,10 +10,9 @@
 
 it's part of a repo series designed
 
+to create a **Web Application with Angular 17**
 
-to create a **Web Application with Angular 16**
-
-* Featuring [**Angular 16.2.4**](https://github.com/angular/angular/releases) & [**Angular CLI 16.2.1**](https://github.com/angular/angular-cli/releases/)
+* Featuring [**Angular 17.0.7**](https://github.com/angular/angular/releases) & [**Angular CLI 17.0.7**](https://github.com/angular/angular-cli/releases/)
 
 
 * See the [**Angular Live demo**](#angular-live-demo), Test the repo with [**Quick start**](#angular-quick-start) and for more information Read the step by step [**Tutorial**](#angular-tutorial) or read the [**Getting started**](#angular-getting-started)
@@ -24,6 +23,12 @@ to create a **Web Application with React 18**
 
 
 * Featuring [**React 18.2.0**](https://github.com/facebook/react/releases) & [**Create-react-app 5.0.1**](https://github.com/facebook/create-react-app/releases)
+
+
+to create a **Node Application with Express 4**
+
+
+* Featuring [**Express 4.18.2**](https://github.com/expressjs/express/releases)
 
 
 </td>
@@ -94,6 +99,31 @@ npm start
 in your browser go to [http://localhost:3000](http://localhost:3000) 
 
 
+# [Node Quick start](#node-quick-start)
+
+```bash
+# choose a repo
+# download the example or clone the repo from github
+git clone https://github.com/ganatan/angular-react-starter.git
+
+# download the example or clone the repo from gitlab
+git clone https://gitlab.com/ganatan/angular-react-starter.git
+
+# change directory
+cd angular-react-starter
+cd node
+
+# install the repo with npm
+npm install
+
+# start the server
+npm start
+
+
+```
+
+in your browser go to [http://localhost:5000](http://localhost:5000) 
+
 
 # [Angular Tutorial](#angular-quick-start)
 
@@ -138,6 +168,28 @@ Here is a step by step Tutorial :  https://www.ganatan.com/tutorials/getting-sta
 ## Development
 * `npm run start`
 * in your browser go to [http://localhost:3000](http://localhost:3000) 
+
+## Production 
+* `npm run build`
+
+## Linter
+* `npm run lint`
+
+## Tests
+* `npm run test`
+* `npm run coverage`
+
+
+# [Node Getting started](#node-getting-started)
+
+
+## Installation
+* `npm install` (installing dependencies)
+* `npm outdated` (verifying dependencies)
+
+## Development
+* `npm run start`
+* in your browser go to [http://localhost:5000](http://localhost:5000) 
 
 ## Production 
 * `npm run build`
